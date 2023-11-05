@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer {
+  .container {
+    @apply mx-auto px-[30px]
+  }
+  .centering {
+    @apply flex items-center justify-center
+  }
+}
+
+body {
+  font-family: "Open Sans" ;
+  background-color: hsl(217, 28%, 13%)
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Raleway", ;
+}
