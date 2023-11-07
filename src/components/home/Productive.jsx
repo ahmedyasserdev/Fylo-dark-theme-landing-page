@@ -2,7 +2,7 @@ import productiveImg from '/src/assets/images/illustration-stay-productive.png'
 import arrow from "/src/assets/images/icon-arrow.svg"
 const Productive = () => {
     return (
-        <section className = "pb-[30px]" >
+        <section className = "pb-[100px]" >
             <div className="container mt-[30px] md:mt-[50px]  grid grid-cols-1 md:grid-cols-2  place-items-center gap-[50px]  " >
                 <div>
                     <img src={productiveImg} alt="stay productive" />

@@ -29,7 +29,7 @@ const features = [
 const Features = () => {
     return (
 
-        <section  >
+        <section  className = "pb-[30px] md:pb-[50px]" >
             <div className="container " >
 
                 <div className='grid grid-cols-1  md:grid-cols-2   text-center  gap-[30px] w-[80%] mx-auto  ' >

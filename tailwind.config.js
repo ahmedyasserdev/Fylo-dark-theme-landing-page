@@ -10,7 +10,7 @@ export default {
         primary: {
           'darkBlueIntro': 'hsl(217, 28%, 15%)',
           'darkBlueMain': 'hsl(218, 28%, 13%)',
-          'darkFlueFooter': 'hsl(216, 53%, 9%)',
+          'darkBlueFooter': 'hsl(216, 53%, 9%)',
           'darkBlueTestimonials': 'hsl(219, 30%, 18%)',
         },
         accent: {
